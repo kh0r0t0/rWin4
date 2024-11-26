@@ -1,7 +1,7 @@
 # r4id3n
 
 
- ![—Pngtree—spider red eyes clipart vector_5147555](https://github.com/user-attachments/assets/c542e222-5c46-4fba-b19c-48380fff2d91)
+ ![360_F_358264930_d7ZH9J8Njh4yV30v2KcBwjK4xFyjLSTp](https://github.com/user-attachments/assets/c3f51ada-b235-4fdd-b684-c059d0ccffef)
 
 
 

@@ -1,13 +1,13 @@
 # rwina
 
 
-### 1 - what's 0d4n really is ?
+### 1 - what's rwina really is ?
  ...
 
 
 
 
-### 2 - what's 0d4n focused on ?
+### 2 - what's rwina focused on ?
  ...
 
 

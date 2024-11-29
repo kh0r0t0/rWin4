@@ -1,13 +1,13 @@
-# 0d4n
+# T-hex
 
 
-## what's 0d4n really is ?
+### 1 - what's 0d4n really is ?
  ...
 
 
 
 
-## what's 0d4n focused on ?
+### 2 - what's 0d4n focused on ?
  ...
 
 

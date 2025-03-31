@@ -1,4 +1,9 @@
-.section .rodata
+# v0.0.1 
+# working on linux using nasm compiler (x86-64) 
+# in any linux distribution you can install it for exemple in kali linux / or parrot security -> [root@user]: sudo apt-get install nasm. then the nasm compiler package will be installed in your linux operating system.
+
+
+.section .rdata
 msg: .ascii "Hello, World!\n"
 .set msglen, (. - msg)
 

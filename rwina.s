@@ -6,6 +6,8 @@
 .section .rdata
 msg: .ascii "Hello, World!\n"
 .set msglen, (. - msg)
+#  ---- 
+# 
 
 .section .text 
 .global main
